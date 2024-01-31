@@ -68,3 +68,5 @@ class Leilao:
        return not self._tem_lances() or (self._usuarios_difirentes(lance) and
                                         self._valor_maior_que_lance_anterior(lance))
 
+#oi
+#OI
