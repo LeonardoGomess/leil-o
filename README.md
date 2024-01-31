@@ -1,1 +1,1 @@
-Aplicação de uma leilão feito em Python
+Aplicação de um leilão feito em Python
